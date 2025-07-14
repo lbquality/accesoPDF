@@ -1,7 +1,7 @@
 {
   "name": "accessdoc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Control de documentos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/lbquality/accesoPDF.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Angel Lavezzo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lbquality/accesoPDF/issues"
